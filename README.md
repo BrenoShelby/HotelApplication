@@ -9,4 +9,4 @@ Para rodar a aplicação é necessário rodar o script DDL (**script_hotel**) no
 - conexaoBD: ConexaoBD (abstract), HospedeDAO (extends), QuartoDAO (extends), ReservaDAO (extends), ServicoDAO (extends).
 - pessoa: Hospede, Endereco.
 - quarto: Quarto, ReservaQuarto, Servico.
-- tad: Conta, GerenciarContas, ListHospede, ListReservaQuarto, No.
+- tad (estrutura de dados): Conta, GerenciarContas, ListHospede, ListReservaQuarto, No.
